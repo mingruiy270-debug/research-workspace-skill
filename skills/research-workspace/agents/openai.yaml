@@ -1,0 +1,6 @@
+interface:
+  display_name: "科研工作区建立"
+  short_description: "建立科学优先、结构简洁、模块环境独立且结果来源清晰的科研工作区"
+  default_prompt: "请使用 $research-workspace，根据我的研究计划和已有材料建立模块化科研工作区，明确科学问题、输入输出、环境及后续执行入口。"
+policy:
+  allow_implicit_invocation: true
